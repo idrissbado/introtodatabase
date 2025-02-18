@@ -9,23 +9,23 @@ This document provides an overview of three well-known Relational Database Manag
 **RDBMS** stands for **Relational Database Management System**, which is designed specifically for relational databases. A database is relational if it stores data in a structured format, using rows and columns. This structure makes it easy to locate and access specific values within the database. The term "relational" refers to the relationships between values within each table, as well as the relationships between tables.
 
 The most well-known RDBMS are:
-- **MySQL** 🐬
-- **PostgreSQL** 🐘
-- **Microsoft SQL Server** 🪟
+- **MySQL** ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)
+- **PostgreSQL** ![PostgreSQL Icon](https://img.icons8.com/color/48/000000/postgreesql.png)
+- **Microsoft SQL Server** ![SQL Server Icon](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
 
 ---
 
-## MySQL 🐬
+## MySQL ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)
 
 MySQL, pronounced either "My S-Q-L" or "My Sequel," is an open-source RDBMS based on the Structured Query Language (SQL). It is used for adding, removing, and modifying information in the database. MySQL is commonly found on web servers and is often used in dynamic web pages that access information from a database.
 
 - **License**: Open-source and free under the GNU license.
 - **Supported by**: Oracle.
-- **Icon**: 🐬
+- **Icon**: ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)
 
 ---
 
-## PostgreSQL 🐘
+## PostgreSQL ![PostgreSQL Icon](https://img.icons8.com/color/48/000000/postgreesql.png)
 
 PostgreSQL is an advanced open-source RDBMS known for its robustness and extensibility. It supports transactions with **ACID** properties (Atomicity, Consistency, Isolation, Durability) and is designed to handle a wide range of workloads, from single machines to large data warehouses or web services with many concurrent users.
 
@@ -33,18 +33,18 @@ PostgreSQL is an advanced open-source RDBMS known for its robustness and extensi
   - Supports custom data types and functions.
   - Allows writing code in different programming languages without recompiling the database.
   - Highly extensible and suitable for both small and large datasets.
-- **Icon**: 🐘
+- **Icon**: ![PostgreSQL Icon](https://img.icons8.com/color/48/000000/postgreesql.png)
 
 ---
 
-## SQL Server 🪟
+## SQL Server ![SQL Server Icon](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
 
 SQL Server is a RDBMS developed by Microsoft. It serves as a central location for storing and retrieving data needed for applications. SQL Server uses SQL for queries and supports user-defined composite types (UDTs). It also provides server statistics through Dynamic Management Views (DMVs).
 
 - **Features**:
   - Supports tables, views, stored procedures, indexes, and constraints.
   - Includes a transaction log for data integrity.
-- **Icon**: 🪟
+- **Icon**: ![SQL Server Icon](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
 
 ---
 
@@ -52,7 +52,7 @@ SQL Server is a RDBMS developed by Microsoft. It serves as a central location fo
 
 Below is a detailed comparison of the three RDBMS based on various criteria:
 
-| **Criteria**         | **MySQL** 🐬                                                                 | **PostgreSQL** 🐘                                                                 | **SQL Server** 🪟                                                                 |
+| **Criteria**         | **MySQL** ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)                                                                 | **PostgreSQL** ![PostgreSQL Icon](https://img.icons8.com/color/48/000000/postgreesql.png)                                                                 | **SQL Server** ![SQL Server Icon](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)                                                                 |
 |-----------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | **Price**            | Core functionality is free; additional paid tools available.              | Open-source.                                                                   | Free edition for developers and small businesses (limited to 1 processor and 1GB memory). |
 | **Language**         | C++                                                                      | C                                                                              | C++                                                                            |
@@ -68,7 +68,7 @@ Below is a detailed comparison of the three RDBMS based on various criteria:
 
 ## Conclusion
 
-The choice between **MySQL** 🐬, **PostgreSQL** 🐘, and **SQL Server** 🪟 ultimately depends on the specific needs of the user or organization. Companies that prioritize flexibility, cost-efficiency, and innovation often opt for open-source solutions like MySQL and PostgreSQL. These systems can be integrated with multiple free add-ons, have active user communities, and are continuously updated. On the other hand, SQL Server is a robust option for enterprises that require advanced features and are willing to invest in a commercial solution.
+The choice between **MySQL** ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png), **PostgreSQL** ![PostgreSQL Icon](https://img.icons8.com/color/48/000000/postgreesql.png), and **SQL Server** ![SQL Server Icon](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) ultimately depends on the specific needs of the user or organization. Companies that prioritize flexibility, cost-efficiency, and innovation often opt for open-source solutions like MySQL and PostgreSQL. These systems can be integrated with multiple free add-ons, have active user communities, and are continuously updated. On the other hand, SQL Server is a robust option for enterprises that require advanced features and are willing to invest in a commercial solution.
 
 ---
 
